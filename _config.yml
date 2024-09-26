@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jun Yeon Won"
   pronouns         : # example: "she/her"  
-    #bio              : "Short biography for the left-hand sidebar"
-    #location         : "Earth"
-    #employer         : "Red Brick University"
+  bio              : "Ph.D. student"
+  location         : "Columbus, Ohio"
+  employer         : "The Ohio State University"
     #uri              : # URL
     #email            : "none@example.org" 
 
