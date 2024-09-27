@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>Hello, I am a Ph.D. student advised by Professor <a href="https://zhiqlin.github.io/">Zhiqiang Lin</a> in The Ohio STate University. Before that, I earned by B.S from Sogang University in 2016 and M.S from University of California, Irvine.</p>
+<p>Hello, this is Jun Yeon Won and I am a Ph.D. student advised by Professor <a href="https://zhiqlin.github.io/">Zhiqiang Lin</a> in The Ohio STate University. Before that, I earned by B.S from Sogang University in 2016 and M.S from University of California, Irvine. in 2019</p>
 
 <p> My current research interests are program analysis (e.g., fuzzing, improving decompilation) and vehicle security (e.g., in-vehicle network, autonomous vehicle). </p>
 
